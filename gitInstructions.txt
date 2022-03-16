@@ -1,0 +1,10 @@
+0. Перейти в папку
+cd C:\OpenServer
+cd domains
+cd site.test
+1. Добавить всё
+git add .
+2. Закоммитить
+git commit -m "commit message"
+3. Запушить на гитхаб
+git push -u origin main
